@@ -11,9 +11,8 @@ Linguagem escolhida: ( x ) PHP  ( ) JavaScript (Node.js)
 Versão: PHP 8.2.12 / Node 22.15.0
 Como instalar dependências: Não tem.
 
-# Ex.: npm install
 
-Como Executar PHP
+- Como Executar PHP
 
 Pegar o código do github
 
